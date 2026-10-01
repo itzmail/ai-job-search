@@ -78,30 +78,17 @@ def check_command(path: Path) -> None:
 
 
 def check_settings() -> None:
-    path = ROOT / ".claude" / "settings.json"
-    try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as exc:
-        errors.append(f".claude/settings.json: {exc}")
-        return
-    if not isinstance(data, dict):
-        errors.append(".claude/settings.json: expected top-level JSON value to be an object")
-        return
-    permissions = data.get("permissions", {})
-    if not isinstance(permissions, dict):
-        errors.append(".claude/settings.json: expected permissions to be an object")
-        return
-    if not isinstance(permissions.get("allow"), list):
-        errors.append(".claude/settings.json: expected permissions.allow to be a list")
+    # Settings check is optional in Pi-native setup since Pi uses project trust
+    pass
 
 
 def main() -> int:
-    skills = sorted(ROOT.glob(".claude/skills/*/SKILL.md")) + sorted(ROOT.glob(".agents/skills/*/SKILL.md"))
-    commands = sorted((ROOT / ".claude" / "commands").glob("*.md"))
+    skills = sorted(ROOT.glob(".agents/skills/*/SKILL.md"))
+    commands = sorted((ROOT / ".pi" / "prompts").glob("*.md"))
     if not skills:
-        errors.append("no SKILL.md files found - glob roots are wrong or the tree moved")
+        errors.append("no SKILL.md files found under .agents/skills/")
     if not commands:
-        errors.append("no command files found under .claude/commands/")
+        errors.append("no command files found under .pi/prompts/")
 
     for skill in skills:
         check_skill(skill)
