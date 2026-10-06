@@ -1,0 +1,25 @@
+{
+  "seen": {
+    "somniosoftware-senior-flutter-developer": {
+      "company": "Somnio Software",
+      "role": "Senior Flutter Developer",
+      "url": "https://careers.somniosoftware.com/o/senior-flutter-developer",
+      "source": "social-search",
+      "first_seen": "2026-10-02"
+    },
+    "arc-dev-flutter-supabase-mobile": {
+      "company": "Arc.dev Exclusive Client",
+      "role": "Mobile Developer (Flutter & Supabase)",
+      "url": "https://arc.dev/remote-jobs/flutter",
+      "source": "social-search",
+      "first_seen": "2026-10-02"
+    },
+    "gft-technologies-flutter-team-leader": {
+      "company": "GFT Technologies SE",
+      "role": "Flutter Developer & Team Leader",
+      "url": "https://remotive.com/remote-jobs/software-dev/flutter-developer-team-leader-1946896",
+      "source": "social-search",
+      "first_seen": "2026-10-02"
+    }
+  }
+}

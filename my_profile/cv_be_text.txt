@@ -1,0 +1,175 @@
+ 
+ISMAIL  NUR  ALAM Backend  Developer +6289611112146   •   ismailnuralam@gmail.com  •   https://itsmail.dev  •   Yogyakarta,  Indonesia   
+Summary 
+Results-oriented  Backend  Developer  with  3+  years  of  professional  experience  designing,  developing,  and  scaling  robust  server-side  
+architectures,
+ 
+distributed
+ 
+database
+ 
+systems,
+ 
+and
+ 
+secure
+ 
+RESTful
+ 
+APIs.
+ 
+Proven
+ 
+track
+ 
+record
+ 
+in
+ 
+optimizing
+ 
+database
+ 
+queries,
+ 
+engineering
+ 
+automated
+ 
+background
+ 
+schedulers,
+ 
+and
+ 
+delivering
+ 
+high-availability
+ 
+backend
+ 
+services
+ 
+across
+ 
+education,
+ 
+enterprise,
+ 
+and
+ 
+fintech
+ 
+domains.  
+Experience  PT  Indoglobal  Nusa  Persada  (Pintro)  Fullstack  Developer  2024/12  -  present 
+●  
+Engineered  robust  scoring  and  reporting  engines  for  core  education  modules  using  Golang,  maintaining  high  transaction  reliability  for  
+mission-critical
+ 
+payment
+ 
+processing
+ 
+systems.
+ 
+●  
+Architected  automated  background  schedulers  for  time-sensitive  business  logic  and  LMS  data  synchronization,  eliminating  manual  
+intervention
+ 
+and
+ 
+ensuring
+ 
+100%
+ 
+automated
+ 
+data
+ 
+sync
+ 
+accuracy.
+ 
+●  
+Optimized  PostgreSQL  database  query  structures  by  eliminating  N+1  bottlenecks,  reducing  backend  database  server  load  and  
+significantly
+ 
+boosting
+ 
+request
+ 
+throughput.
+ 
+●  
+Collaborated  with  cross-functional  teams  to  integrate  backend  RESTful  services  with  web  and  mobile  client  applications.  
+●  
+Automated  CI/CD  build  workflows  utilizing  Bitbucket  pipelines  to  streamline  software  releases  and  deployments.  
+ PT  Kuantum  Solusi  Teknologi  Software  Engineer  2024/01  -  2024/12 
+●  
+Designed,  developed,  and  secured  high-throughput  REST  APIs  using  Spring  Boot  (Java)  and  Express.js,  enabling  secure  client-server  
+communication
+ 
+across
+ 
+internal
+ 
+enterprise
+ 
+systems.
+ 
+●  
+Implemented  OAuth-based  authentication  protocols  to  enforce  secure  client-server  data  communication  and  protect  user  sessions.  
+●  
+Applied  object-oriented  programming  (OOP)  and  clean  architecture  principles  to  create  modular,  maintainable,  and  reusable  server-side  
+components.
+ 
+●  
+Streamlined  bug  tracking  and  feature  delivery  by  incorporating  ticketing  systems  into  agile  development  workflows,  accelerating  response  
+times
+ 
+for
+ 
+client
+ 
+support
+ 
+requests.
+ 
+ CV  Mutif  Corp  Backend  &  Software  Engineer  2021/04  -  2023/12 
+●  
+Engineered  core  server-side  logic  and  database  workflows  for  a  Warehouse  Management  System  (WMS),  handling  inventory  tracking,  
+picking,
+ 
+and
+ 
+storage
+ 
+operations.
+ 
+●  
+Developed  backend  logic  for  an  internal  HRIS  platform,  supporting  salary  calculations,  payslip  generation,  and  external  activity  tracking.  
+●  
+Built  service  endpoints  and  database  verification  pipelines  for  employee  identification  via  multifunctional  QR  code  scanning  cards.  
+●  
+Modernized  enterprise  operations  by  implementing  5  key  features  across  internal  systems,  driving  noticeable  efficiency  gains  in  warehouse  
+tracking
+ 
+and
+ 
+inventory
+ 
+control.
+ 
+Education Universitas  Terbuka  Bandung Bachelor  of  Information  Systems  01/2023  -  01/2027 
+Training  /  Courses 
+Mobile  Developer  Student  —  Pondok  Programmer  
+Languages 
+English  Advanced   Indonesian  Native  
+     
+
+Skills Programming  Languages:  TypeScript,  JavaScript,  Golang,  Java,  Dart,  Swift
+ Frameworks  &  Libraries:  Next.js,  React.js,  React  Native,  Flutter,  Express.js,  Spring  Boot,  Svelte,  Astro
+ Databases:  PostgreSQL,  MySQL,  Mongo  DB
+ Backend  &  DevOps:  RESTful  API  Design,  OAuth  2.0,  Bitbucket  Pipelines,  Git,  GitHub,  GitLab
+ Architecture  &  Developer  Tools:  Object-Oriented  Programming  (OOP),  Agile/Scrum,  Xcode,  Android  Studio,  Claude  Code,  Codex,  
+Antigravity 

@@ -1,0 +1,841 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-06T05:58:01.594756",
+  "applications": {
+    "careers@veecotech.com.my": {
+      "email": "careers@veecotech.com.my",
+      "domain": "veecotech.com.my",
+      "company": "Veecotech",
+      "role": "",
+      "subject": "[Application] Mobile App Developer (Flutter / React Native) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 6 Oct 2026 05:05:27 +0700",
+      "last_updated": "2026-10-06T05:16:38.279128"
+    },
+    "apply@sols247.com": {
+      "email": "apply@sols247.com",
+      "domain": "sols247.com",
+      "company": "Sols247",
+      "role": "",
+      "subject": "[Application] React Native & Mobile Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 6 Oct 2026 05:05:09 +0700",
+      "last_updated": "2026-10-06T05:16:38.772472"
+    },
+    "careers@bytevaultinfotech.com": {
+      "email": "careers@bytevaultinfotech.com",
+      "domain": "bytevaultinfotech.com",
+      "company": "Bytevaultinfotech",
+      "role": "",
+      "subject": "[Application] Remote Mobile Developer (Flutter / React Native) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 6 Oct 2026 05:04:37 +0700",
+      "last_updated": "2026-10-06T05:16:39.282156"
+    },
+    "careers@siroi.com": {
+      "email": "careers@siroi.com",
+      "domain": "siroi.com",
+      "company": "Siroi",
+      "role": "",
+      "subject": "[Application] React Native / Mobile Developer (Remote) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 6 Oct 2026 05:03:55 +0700",
+      "last_updated": "2026-10-06T05:16:39.792548"
+    },
+    "hey@heydrop.app": {
+      "email": "hey@heydrop.app",
+      "domain": "heydrop.app",
+      "company": "Heydrop",
+      "role": "",
+      "subject": "Application: Senior React Native Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 22:03:56 +0700",
+      "last_updated": "2026-10-06T05:16:40.232222"
+    },
+    "team@aidar.ai": {
+      "email": "team@aidar.ai",
+      "domain": "aidar.ai",
+      "company": "Aidar",
+      "role": "",
+      "subject": "Application: Mobile Engineer (Flutter) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 22:03:32 +0700",
+      "last_updated": "2026-10-06T05:16:40.720416"
+    },
+    "rune.rasen@rightpeoplegroup.com": {
+      "email": "rune.rasen@rightpeoplegroup.com",
+      "domain": "rightpeoplegroup.com",
+      "company": "Rightpeoplegroup",
+      "role": "",
+      "subject": "Application: React / Next.js Developer (Contract) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 22:03:03 +0700",
+      "last_updated": "2026-10-06T05:16:41.190635"
+    },
+    "careers@nxtgenindustries.com": {
+      "email": "careers@nxtgenindustries.com",
+      "domain": "nxtgenindustries.com",
+      "company": "Nxtgenindustries",
+      "role": "",
+      "subject": "Application: Frontend Platform Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 22:02:15 +0700",
+      "last_updated": "2026-10-06T05:16:41.844229"
+    },
+    "ida@boostechid.com": {
+      "email": "ida@boostechid.com",
+      "domain": "boostechid.com",
+      "company": "Boostechid",
+      "role": "",
+      "subject": "Application: Freelance Software Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:36:01 +0700",
+      "last_updated": "2026-10-06T05:16:42.355527"
+    },
+    "hr@greenfi.ai": {
+      "email": "hr@greenfi.ai",
+      "domain": "greenfi.ai",
+      "company": "Greenfi",
+      "role": "",
+      "subject": "Application: Full-Stack Software Developer - Ismail Nur Alam (Remote)",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:29:17 +0700",
+      "last_updated": "2026-10-06T05:16:42.864101"
+    },
+    "azizah.a@avowstech.com": {
+      "email": "azizah.a@avowstech.com",
+      "domain": "avowstech.com",
+      "company": "Avowstech",
+      "role": "",
+      "subject": "[Fullstack / Backend Developer] - Ismail Nur Alam (Remote Application)",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:28:36 +0700",
+      "last_updated": "2026-10-06T05:16:43.413668"
+    },
+    "hello@loopcontrol.io": {
+      "email": "hello@loopcontrol.io",
+      "domain": "loopcontrol.io",
+      "company": "Loopcontrol",
+      "role": "",
+      "subject": "Application: Remote React Native / Mobile Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:27:56 +0700",
+      "last_updated": "2026-10-06T05:16:43.890573"
+    },
+    "hr@nextelmeta.com": {
+      "email": "hr@nextelmeta.com",
+      "domain": "nextelmeta.com",
+      "company": "Nextelmeta",
+      "role": "",
+      "subject": "Application: Frontend & Mobile Developer (Flutter / React Native) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:25:09 +0700",
+      "last_updated": "2026-10-06T05:16:44.407293"
+    },
+    "alex@grsrecruitment.com": {
+      "email": "alex@grsrecruitment.com",
+      "domain": "grsrecruitment.com",
+      "company": "Grsrecruitment",
+      "role": "",
+      "subject": "Application: Senior Mobile Engineer (React Native) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:22:26 +0700",
+      "last_updated": "2026-10-06T05:16:44.965860"
+    },
+    "william.cang@glints.com": {
+      "email": "william.cang@glints.com",
+      "domain": "glints.com",
+      "company": "Glints",
+      "role": "",
+      "subject": "Direct Application: Golang Backend Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:21:41 +0700",
+      "last_updated": "2026-10-06T05:16:45.637949"
+    },
+    "contact@wolvion.com": {
+      "email": "contact@wolvion.com",
+      "domain": "wolvion.com",
+      "company": "Wolvion",
+      "role": "",
+      "subject": "Application - Backend Developer (Node/Python) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:21:08 +0700",
+      "last_updated": "2026-10-06T05:16:46.142123"
+    },
+    "camila@siblingssoftware.com": {
+      "email": "camila@siblingssoftware.com",
+      "domain": "siblingssoftware.com",
+      "company": "Siblingssoftware",
+      "role": "",
+      "subject": "Application: Remote Backend Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:20:27 +0700",
+      "last_updated": "2026-10-06T05:16:46.581201"
+    },
+    "tisha@temikacyber.com": {
+      "email": "tisha@temikacyber.com",
+      "domain": "temikacyber.com",
+      "company": "Temikacyber",
+      "role": "",
+      "subject": "Application: Fullstack Engineer (AI-Native) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 21:17:38 +0700",
+      "last_updated": "2026-10-06T05:16:47.064045"
+    },
+    "careers@developxweb.com": {
+      "email": "careers@developxweb.com",
+      "domain": "developxweb.com",
+      "company": "Developxweb",
+      "role": "",
+      "subject": "Application: Remote Full-Stack Engineer (Freelance) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 5 Oct 2026 13:43:01 +0700",
+      "last_updated": "2026-10-06T05:16:47.574241"
+    },
+    "careers@eterna.id": {
+      "email": "careers@eterna.id",
+      "domain": "eterna.id",
+      "company": "Eterna",
+      "role": "",
+      "subject": "Application: Full-Stack Developer (Next.js / Node.js) — Eterna Indonesia",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 09:03:07 +0700",
+      "last_updated": "2026-10-06T05:16:48.035008"
+    },
+    "apply@rimutee.com": {
+      "email": "apply@rimutee.com",
+      "domain": "rimutee.com",
+      "company": "Rimutee",
+      "role": "",
+      "subject": "Application: Senior Full-Stack Engineer (Go / React) — Rimutee",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 09:02:19 +0700",
+      "last_updated": "2026-10-06T05:16:48.612801"
+    },
+    "careers@devcode.com": {
+      "email": "careers@devcode.com",
+      "domain": "devcode.com",
+      "company": "Devcode",
+      "role": "",
+      "subject": "Application: Fullstack Developer (Golang & TypeScript) — Devcode",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 09:01:29 +0700",
+      "last_updated": "2026-10-06T05:16:49.048396"
+    },
+    "support@arc.dev": {
+      "email": "support@arc.dev",
+      "domain": "arc.dev",
+      "company": "Arc",
+      "role": "",
+      "subject": "Application: Mobile Developer (Flutter & Supabase) — Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 08:41:27 +0700",
+      "last_updated": "2026-10-06T05:16:49.520517"
+    },
+    "jobs@somniosoftware.com": {
+      "email": "jobs@somniosoftware.com",
+      "domain": "somniosoftware.com",
+      "company": "Somniosoftware",
+      "role": "",
+      "subject": "Application: Senior Flutter Developer — Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 08:41:11 +0700",
+      "last_updated": "2026-10-06T05:16:50.027473"
+    },
+    "julius@fotoo.id": {
+      "email": "julius@fotoo.id",
+      "domain": "fotoo.id",
+      "company": "Fotoo",
+      "role": "",
+      "subject": "Application: IT Implementor & Support - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 4 Oct 2026 07:20:52 +0700",
+      "last_updated": "2026-10-06T05:16:51.220195"
+    },
+    "recruitment@mydigilearn.id": {
+      "email": "recruitment@mydigilearn.id",
+      "domain": "mydigilearn.id",
+      "company": "Mydigilearn",
+      "role": "",
+      "subject": "[AI Engineer – Agentic Platform] – Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 21:42:20 +0700",
+      "last_updated": "2026-10-06T05:16:51.710635"
+    },
+    "azihakim.ma@gmail.com": {
+      "email": "azihakim.ma@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Application: Web Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 21:40:49 +0700",
+      "last_updated": "2026-10-06T05:16:52.154040"
+    },
+    "vrinda.vijay@nairsystems.com": {
+      "email": "vrinda.vijay@nairsystems.com",
+      "domain": "nairsystems.com",
+      "company": "Nairsystems",
+      "role": "",
+      "subject": "Application: Flutter Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 21:38:23 +0700",
+      "last_updated": "2026-10-06T05:16:52.768400"
+    },
+    "hiring@codestratlabs.com": {
+      "email": "hiring@codestratlabs.com",
+      "domain": "codestratlabs.com",
+      "company": "Codestratlabs",
+      "role": "",
+      "subject": "Application: Backend Developer (Node.js/Express.js) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 21:36:13 +0700",
+      "last_updated": "2026-10-06T05:16:53.279973"
+    },
+    "recruitment@pulangkeuttara.com": {
+      "email": "recruitment@pulangkeuttara.com",
+      "domain": "pulangkeuttara.com",
+      "company": "Pulangkeuttara",
+      "role": "",
+      "subject": "Application: Freelance Backend Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 19:20:29 +0700",
+      "last_updated": "2026-10-06T05:16:53.829007"
+    },
+    "talent@nodewave.id": {
+      "email": "talent@nodewave.id",
+      "domain": "nodewave.id",
+      "company": "Nodewave",
+      "role": "",
+      "subject": "Application: Fullstack Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 19:20:11 +0700",
+      "last_updated": "2026-10-06T05:16:54.267320"
+    },
+    "abdulfattah.md.ridzuan@resethealth.clinic": {
+      "email": "abdulfattah.md.ridzuan@resethealth.clinic",
+      "domain": "resethealth.clinic",
+      "company": "Resethealth",
+      "role": "",
+      "subject": "Application: Junior React / React Native Programmer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 19:18:53 +0700",
+      "last_updated": "2026-10-06T05:16:54.729550"
+    },
+    "hello@mingla.io": {
+      "email": "hello@mingla.io",
+      "domain": "mingla.io",
+      "company": "Mingla",
+      "role": "",
+      "subject": "HN: CTO / Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 19:04:22 +0700",
+      "last_updated": "2026-10-06T05:16:55.175138"
+    },
+    "remotedevelopers8900@gmail.com": {
+      "email": "remotedevelopers8900@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Application: Remote Full-Stack Software Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Oct 2026 19:03:15 +0700",
+      "last_updated": "2026-10-06T05:16:55.663377"
+    },
+    "vjureddy@miraclesoft.com": {
+      "email": "vjureddy@miraclesoft.com",
+      "domain": "miraclesoft.com",
+      "company": "Miraclesoft",
+      "role": "",
+      "subject": "Application: Full Stack Mobile Developer (Flutter) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Fri, 2 Oct 2026 09:14:37 +0700",
+      "last_updated": "2026-10-06T05:16:56.176391"
+    },
+    "hn@cwai.co": {
+      "email": "hn@cwai.co",
+      "domain": "cwai.co",
+      "company": "Cwai",
+      "role": "",
+      "subject": "Application: AI Engineer / Agent Builder - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 1 Oct 2026 08:56:08 +0700",
+      "last_updated": "2026-10-06T05:16:57.202529"
+    },
+    "ihubrecruite@gmail.com": {
+      "email": "ihubrecruite@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Application: Remote Full-Stack Software Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 1 Oct 2026 08:50:45 +0700",
+      "last_updated": "2026-10-06T05:16:57.712701"
+    },
+    "jobs@agrisoft-systems.com": {
+      "email": "jobs@agrisoft-systems.com",
+      "domain": "agrisoft-systems.com",
+      "company": "Agrisoft-systems",
+      "role": "",
+      "subject": "Application: Software Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 1 Oct 2026 08:49:06 +0700",
+      "last_updated": "2026-10-06T05:16:58.228194"
+    },
+    "rose.d@coforge.com": {
+      "email": "rose.d@coforge.com",
+      "domain": "coforge.com",
+      "company": "Coforge",
+      "role": "",
+      "subject": "Application: Senior Frontend Developer (React, React Native & TypeScript) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 1 Oct 2026 08:48:36 +0700",
+      "last_updated": "2026-10-06T05:16:58.760288"
+    },
+    "isheeka.malhotra@abhidisolution.com": {
+      "email": "isheeka.malhotra@abhidisolution.com",
+      "domain": "abhidisolution.com",
+      "company": "Abhidisolution",
+      "role": "",
+      "subject": "Application: AI Agents & Backend Platforms Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 1 Oct 2026 08:47:58 +0700",
+      "last_updated": "2026-10-06T05:16:59.348813"
+    },
+    "diptyendu.chatterjee@geotechinfo.net": {
+      "email": "diptyendu.chatterjee@geotechinfo.net",
+      "domain": "geotechinfo.net",
+      "company": "Geotechinfo",
+      "role": "",
+      "subject": "Application: Java Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 30 Sep 2026 14:42:55 +0700",
+      "last_updated": "2026-10-06T05:17:00.174322"
+    },
+    "atlas@cyberatlas.ai": {
+      "email": "atlas@cyberatlas.ai",
+      "domain": "cyberatlas.ai",
+      "company": "Cyberatlas",
+      "role": "",
+      "subject": "HN Software Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 30 Sep 2026 08:20:16 +0700",
+      "last_updated": "2026-10-06T05:17:00.638941"
+    },
+    "join@asyncsolution.com": {
+      "email": "join@asyncsolution.com",
+      "domain": "asyncsolution.com",
+      "company": "Asyncsolution",
+      "role": "",
+      "subject": "Application: Full Stack Developer (Web & Mobile) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 30 Sep 2026 08:19:13 +0700",
+      "last_updated": "2026-10-06T05:17:01.078851"
+    },
+    "jobs@biobase.ai": {
+      "email": "jobs@biobase.ai",
+      "domain": "biobase.ai",
+      "company": "Biobase",
+      "role": "",
+      "subject": "Technical Product Engineer (Early Career) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 29 Sep 2026 15:09:28 +0700",
+      "last_updated": "2026-10-06T05:17:01.605889"
+    },
+    "saputri@glints.com": {
+      "email": "saputri@glints.com",
+      "domain": "glints.com",
+      "company": "Glints",
+      "role": "",
+      "subject": "Full Stack Web Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 29 Sep 2026 12:16:22 +0700",
+      "last_updated": "2026-10-06T05:17:02.527666"
+    },
+    "hn@puma.tech": {
+      "email": "hn@puma.tech",
+      "domain": "puma.tech",
+      "company": "Puma",
+      "role": "",
+      "subject": "Application: Mobile Engineer (iOS / Android) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 29 Sep 2026 08:16:19 +0700",
+      "last_updated": "2026-10-06T05:17:03.036553"
+    },
+    "tech@insignia.vc": {
+      "email": "tech@insignia.vc",
+      "domain": "insignia.vc",
+      "company": "Insignia",
+      "role": "",
+      "subject": "Application: Software Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 27 Sep 2026 18:53:58 +0700",
+      "last_updated": "2026-10-06T05:17:03.651472"
+    },
+    "rishi@quill.co": {
+      "email": "rishi@quill.co",
+      "domain": "quill.co",
+      "company": "Quill",
+      "role": "",
+      "subject": "Fullstack SWE Application - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 27 Sep 2026 18:53:13 +0700",
+      "last_updated": "2026-10-06T05:17:04.109911"
+    },
+    "kyaya@ai-network-solution.com": {
+      "email": "kyaya@ai-network-solution.com",
+      "domain": "ai-network-solution.com",
+      "company": "Ai-network-solution",
+      "role": "",
+      "subject": "Project Based Freelance - Frontend / Mobile Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 26 Sep 2026 12:00:42 +0700",
+      "last_updated": "2026-10-06T05:18:56.398436"
+    },
+    "jobs@proxybase.xyz": {
+      "email": "jobs@proxybase.xyz",
+      "domain": "proxybase.xyz",
+      "company": "Proxybase",
+      "role": "",
+      "subject": "Software Engineering Application - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Fri, 25 Sep 2026 13:03:21 +0700",
+      "last_updated": "2026-10-06T05:18:58.367486"
+    },
+    "emily.thompson@luciaprotocol.com": {
+      "email": "emily.thompson@luciaprotocol.com",
+      "domain": "luciaprotocol.com",
+      "company": "Luciaprotocol",
+      "role": "",
+      "subject": "HN SEPT2026 - Software Engineer Application - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Fri, 25 Sep 2026 08:58:25 +0700",
+      "last_updated": "2026-10-06T05:18:59.309327"
+    },
+    "dvloopcreatives@gmail.com": {
+      "email": "dvloopcreatives@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Web Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 24 Sep 2026 08:09:55 +0700",
+      "last_updated": "2026-10-06T05:18:59.777272"
+    },
+    "makipigfheb@gmail.com": {
+      "email": "makipigfheb@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Application for Senior Full Stack Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 23 Sep 2026 09:32:01 +0700",
+      "last_updated": "2026-10-06T05:19:00.249782"
+    },
+    "hr@jamipartners.com": {
+      "email": "hr@jamipartners.com",
+      "domain": "jamipartners.com",
+      "company": "Jamipartners",
+      "role": "",
+      "subject": "Application: Senior Flutter Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 23 Sep 2026 06:28:27 +0700",
+      "last_updated": "2026-10-06T05:19:01.318349"
+    },
+    "jobs.my@nextlabs.com": {
+      "email": "jobs.my@nextlabs.com",
+      "domain": "nextlabs.com",
+      "company": "Nextlabs",
+      "role": "",
+      "subject": "Application for APAC - Software Engineer Web (UI Developer) - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Tue, 22 Sep 2026 07:44:23 +0700",
+      "last_updated": "2026-10-06T05:19:02.247361"
+    },
+    "ranjithkumar@gridlex.com": {
+      "email": "ranjithkumar@gridlex.com",
+      "domain": "gridlex.com",
+      "company": "Gridlex",
+      "role": "",
+      "subject": "Application for Software Testing Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Mon, 21 Sep 2026 13:19:43 +0700",
+      "last_updated": "2026-10-06T05:19:03.247230"
+    },
+    "admin@innovesia.co.id": {
+      "email": "admin@innovesia.co.id",
+      "domain": "innovesia.co.id",
+      "company": "Innovesia",
+      "role": "",
+      "subject": "Ismail Nur Alam_Freelance Full Stack Developer",
+      "status": "applied",
+      "date": "Sat, 19 Sep 2026 07:27:07 +0700",
+      "last_updated": "2026-10-06T05:19:04.397563"
+    },
+    "recruitment@connectinx.id": {
+      "email": "recruitment@connectinx.id",
+      "domain": "connectinx.id",
+      "company": "Connectinx",
+      "role": "",
+      "subject": "[Fullstack Engineer] - [Ismail Nur Alam]",
+      "status": "applied",
+      "date": "Fri, 18 Sep 2026 07:01:12 +0700",
+      "last_updated": "2026-10-06T05:19:04.837799"
+    },
+    "dian.maharani@prointegrate.net": {
+      "email": "dian.maharani@prointegrate.net",
+      "domain": "prointegrate.net",
+      "company": "Prointegrate",
+      "role": "",
+      "subject": "Application: Full-Stack Software Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Fri, 18 Sep 2026 06:59:00 +0700",
+      "last_updated": "2026-10-06T05:19:05.404758"
+    },
+    "career@deptechdigital.com": {
+      "email": "career@deptechdigital.com",
+      "domain": "deptechdigital.com",
+      "company": "Deptechdigital",
+      "role": "",
+      "subject": "Ismail Nur Alam - Senior Frontend ReactJS",
+      "status": "applied",
+      "date": "Thu, 17 Sep 2026 12:37:09 +0700",
+      "last_updated": "2026-10-06T05:19:06.730730"
+    },
+    "hr@atask.id": {
+      "email": "hr@atask.id",
+      "domain": "atask.id",
+      "company": "Atask",
+      "role": "",
+      "subject": "Re: ATASK - Next Stage: Full-Stack Engineer (AI-Assisted) — Technical Task",
+      "status": "applied",
+      "date": "Tue, 15 Sep 2026 11:04:33 +0700",
+      "last_updated": "2026-10-06T05:19:08.175705"
+    },
+    "herdianasefriani1@gmail.com": {
+      "email": "herdianasefriani1@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "Fullstack Mobile Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 12 Sep 2026 22:59:02 +0700",
+      "last_updated": "2026-10-06T05:19:08.681292"
+    },
+    "hr@earrow.net": {
+      "email": "hr@earrow.net",
+      "domain": "earrow.net",
+      "company": "Earrow",
+      "role": "",
+      "subject": "Application for Associate Software Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 12 Sep 2026 07:20:45 +0700",
+      "last_updated": "2026-10-06T05:19:09.910518"
+    },
+    "khalid.cse.bd@gmail.com": {
+      "email": "khalid.cse.bd@gmail.com",
+      "domain": "gmail.com",
+      "company": "Gmail",
+      "role": "",
+      "subject": "CV for position: Junior Software Developer",
+      "status": "applied",
+      "date": "Sat, 12 Sep 2026 07:19:40 +0700",
+      "last_updated": "2026-10-06T05:19:10.425111"
+    },
+    "join@radyalabs.com": {
+      "email": "join@radyalabs.com",
+      "domain": "radyalabs.com",
+      "company": "Radyalabs",
+      "role": "",
+      "subject": "Application for Freelance Backend Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 5 Sep 2026 05:19:40 +0700",
+      "last_updated": "2026-10-06T05:19:10.875147"
+    },
+    "hr.ind@livebest4you.com": {
+      "email": "hr.ind@livebest4you.com",
+      "domain": "livebest4you.com",
+      "company": "Livebest4you",
+      "role": "",
+      "subject": "Application for Frontend Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 5 Sep 2026 05:07:56 +0700",
+      "last_updated": "2026-10-06T05:19:11.315227"
+    },
+    "career@amartek.id": {
+      "email": "career@amartek.id",
+      "domain": "amartek.id",
+      "company": "Amartek",
+      "role": "",
+      "subject": "Application for Fullstack Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Fri, 4 Sep 2026 11:29:09 +0700",
+      "last_updated": "2026-10-06T05:19:12.001090"
+    },
+    "johan@qonflo.ai": {
+      "email": "johan@qonflo.ai",
+      "domain": "qonflo.ai",
+      "company": "Qonflo",
+      "role": "",
+      "subject": "Re: Application for Prompt Engineer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 27 Aug 2026 06:47:05 +0700",
+      "last_updated": "2026-10-06T05:19:12.471122"
+    },
+    "fika@asian-technology.com": {
+      "email": "fika@asian-technology.com",
+      "domain": "asian-technology.com",
+      "company": "Asian-technology",
+      "role": "",
+      "subject": "Fullstack Developer_Ismail Nu Alam",
+      "status": "applied",
+      "date": "Thu, 20 Aug 2026 16:34:29 -0700",
+      "last_updated": "2026-10-06T05:19:13.608696"
+    },
+    "hr@mcmwg.com": {
+      "email": "hr@mcmwg.com",
+      "domain": "mcmwg.com",
+      "company": "Mcmwg",
+      "role": "",
+      "subject": "Application for AI Developer Position (Freelance/Part-Time)",
+      "status": "applied",
+      "date": "Wed, 12 Aug 2026 17:08:41 +0700",
+      "last_updated": "2026-10-06T05:19:14.179065"
+    },
+    "consultant@raindev.studio": {
+      "email": "consultant@raindev.studio",
+      "domain": "raindev.studio",
+      "company": "Raindev",
+      "role": "",
+      "subject": "Fullstack Software Engineer — Ismail Nur Alam",
+      "status": "applied",
+      "date": "Wed, 3 Jun 2026 13:08:48 +0700",
+      "last_updated": "2026-10-06T05:19:16.021774"
+    },
+    "ian.yulianto@live.com": {
+      "email": "ian.yulianto@live.com",
+      "domain": "live.com",
+      "company": "Live",
+      "role": "",
+      "subject": "Flutter iOS Dev - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sun, 17 May 2026 11:52:16 +0700",
+      "last_updated": "2026-10-06T05:19:16.568687"
+    },
+    "hr@runchise.com": {
+      "email": "hr@runchise.com",
+      "domain": "runchise.com",
+      "company": "Runchise",
+      "role": "",
+      "subject": "Apply Position Flutter Developer",
+      "status": "applied",
+      "date": "Tue, 28 Apr 2026 08:54:15 +0700",
+      "last_updated": "2026-10-06T05:19:17.010465"
+    },
+    "contactus@klickersgroup.com": {
+      "email": "contactus@klickersgroup.com",
+      "domain": "klickersgroup.com",
+      "company": "Klickersgroup",
+      "role": "",
+      "subject": "Application Frontend Developer at Klickers Group",
+      "status": "applied",
+      "date": "Thu, 19 Feb 2026 12:54:07 +0700",
+      "last_updated": "2026-10-06T05:19:20.561338"
+    },
+    "hiringsuper-team@lakon.tech": {
+      "email": "hiringsuper-team@lakon.tech",
+      "domain": "lakon.tech",
+      "company": "Lakon",
+      "role": "",
+      "subject": "Android Engineer – Ismail Nur Alam",
+      "status": "applied",
+      "date": "Thu, 15 Jan 2026 10:20:20 +0700",
+      "last_updated": "2026-10-06T05:19:21.075446"
+    },
+    "sheila.widjaya@accordinnovations.com": {
+      "email": "sheila.widjaya@accordinnovations.com",
+      "domain": "accordinnovations.com",
+      "company": "Accordinnovations",
+      "role": "",
+      "subject": "Application for Frontend or Backend Developer - Ismail Nur Alam",
+      "status": "applied",
+      "date": "Sat, 3 Jan 2026 05:41:54 +0700",
+      "last_updated": "2026-10-06T05:19:21.508824"
+    },
+    "job@feha.io": {
+      "email": "job@feha.io",
+      "domain": "feha.io",
+      "company": "Feha",
+      "role": "",
+      "subject": "ISMAIL NUR ALAM - AI Engineer Intern",
+      "status": "applied",
+      "date": "Tue, 25 Nov 2025 13:57:12 +0700",
+      "last_updated": "2026-10-06T05:19:23.032034"
+    },
+    "contact@oninyon.com": {
+      "email": "contact@oninyon.com",
+      "domain": "oninyon.com",
+      "company": "Oninyon",
+      "role": "",
+      "subject": "Apply for Job Position Frontend Developer or Mobile Developer",
+      "status": "applied",
+      "date": "Thu, 13 Nov 2025 10:36:05 +0700",
+      "last_updated": "2026-10-06T05:19:25.059318"
+    },
+    "careers@respond.io": {
+      "email": "careers@respond.io",
+      "domain": "respond.io",
+      "company": "Respond",
+      "role": "",
+      "subject": "Application: Senior Frontend Developer (Vue.js / Remote) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T05:41:08.580560"
+    },
+    "hello@aarorn.com": {
+      "email": "hello@aarorn.com",
+      "domain": "aarorn.com",
+      "company": "Aarorn",
+      "role": "",
+      "subject": "Application: AI Enabled Frontend Developer (Remote) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T05:41:11.769139"
+    },
+    "careers@xsolla.com": {
+      "email": "careers@xsolla.com",
+      "domain": "xsolla.com",
+      "company": "Xsolla",
+      "role": "",
+      "subject": "Application: Backend Engineer (PHP / Golang) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T05:57:58.464260"
+    },
+    "careers@fazz.com": {
+      "email": "careers@fazz.com",
+      "domain": "fazz.com",
+      "company": "Fazz",
+      "role": "",
+      "subject": "Application: Backend Engineer (Card Issuing / Golang) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T05:57:59.689600"
+    },
+    "hi@one-jar.com": {
+      "email": "hi@one-jar.com",
+      "domain": "one-jar.com",
+      "company": "One-jar",
+      "role": "",
+      "subject": "Application: Backend Developer (Python / Microservices) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T05:58:01.594665"
+    }
+  }
+}

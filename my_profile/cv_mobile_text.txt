@@ -1,0 +1,274 @@
+ISMAIL  NUR  ALAM Mobile  Developer +6289611112146   •  ismailnuralam@gmail.com •  https://itsmail.dev •   Yogyakarta,  Indonesia  
+ Professional  Summary 
+Accomplished  Mobile  Developer  with  3+  years  of  experience  engineering,  scaling,  and  deploying  cross-platform  and  native  mobile  applications  
+across
+ 
+iOS
+ 
+and
+ 
+Android
+ 
+ecosystems.
+ 
+Highly
+ 
+proficient
+ 
+in
+ 
+Flutter
+ 
+and
+ 
+Dart,
+ 
+with
+ 
+strong
+ 
+hands-on
+ 
+experience
+ 
+in
+ 
+React
+ 
+Native,
+ 
+native
+ 
+iOS
+ 
+(Swift),
+ 
+and
+ 
+full-stack
+ 
+backend
+ 
+integrations
+ 
+(Golang,
+ 
+Java
+ 
+Spring
+ 
+Boot,
+ 
+Express.js,
+ 
+PostgreSQL).
+ 
+Proven
+ 
+track
+ 
+record
+ 
+of
+ 
+launching
+ 
+10
+ 
+mobile
+ 
+applications
+ 
+in
+ 
+2023,
+ 
+automating
+ 
+mobile
+ 
+CI/CD
+ 
+pipelines
+ 
+via
+ 
+Bitbucket,
+ 
+and
+ 
+building
+ 
+operational
+ 
+enterprise
+ 
+modules
+ 
+(WMS
+ 
+and
+ 
+QR/barcode
+ 
+scanning)
+ 
+that
+ 
+boosted
+ 
+inventory
+ 
+tracking.
+  Work  Experience PT  Indoglobal  Nusa  Persada  (Pintro) Mobile  &  Fullstack  Developer  12/2024  –  Present  
+|
+ 
+Indonesia
+ 
+●  
+Engineered  high-performance,  responsive  cross-platform  mobile  interfaces  in  Flutter,  integrating  client  apps  with  backend  REST  APIs  and  
+Learning
+ 
+Management
+ 
+System
+ 
+(LMS)
+ 
+data
+ 
+pipelines.
+ 
+●  
+Architected  and  implemented  multi-flavor  application  configuration  (flavorization)  in  Flutter,  enabling  multi-tenant  white-label  deployment  
+from
+ 
+a
+ 
+single
+ 
+codebase
+ 
+across
+ 
+various
+ 
+client
+ 
+brands.
+ 
+●  
+Upgraded  native  iOS  applications  using  Swift  to  comply  with  modern  platform  standards,  refactoring  third-party  library  dependencies  and  
+publishing
+ 
+updates
+ 
+to
+ 
+the
+ 
+Apple
+ 
+App
+ 
+Store.
+ 
+●  
+Managed  end-to-end  publishing  lifecycles,  versioning,  and  compliance  reviews  across  both  Google  Play  Store  and  Apple  App  Store.  
+●  
+Integrated  and  optimized  backend  data  synchronization  routines  in  PostgreSQL  and  Go  schedulers,  resolving  N+1  query  bottlenecks  
+and
+ 
+cutting
+ 
+application
+ 
+data
+ 
+fetch
+ 
+latencies.
+ 
+PT  Kuantum  Solusi  Teknologi Mobile  Software  Engineer  01/2024  –  12/2024  
+|
+ 
+Indonesia
+ 
+●  
+Architected  and  maintained  scalable  cross-platform  mobile  applications  for  Android  and  iOS  using  Flutter  and  React  Native.
+ 
+●  
+Integrated  real-time  ticket  reservation,  interactive  schedule  browsers,  and  secure  payment  workflows  with  backend  RESTful  APIs  using  
+OAuth
+ 
+2.0
+ 
+authentication.
+ 
+●  
+Oversaw  mobile  application  release  cycles,  app  signing,  and  store  deployments  across  the  Google  Play  Store  and  Apple  App  Store.
+ 
+●  
+Maintained  the  production  application  post-launch,  driving  rapid  bug  fixes,  device  compatibility  profiling,  and  store  versioning  across  Google  
+Play
+ 
+Store
+ 
+and
+ 
+Apple
+ 
+App
+ 
+Store.
+ 
+●  
+Built  internal  enterprise  web  portals  using  React.js,  standardizing  frontend  architecture  across  JavaScript  and  Dart  technology  stacks.
+ 
+CV  Mutif  Corp Mobile  Developer  04/2021  –  12/2023  
+|
+ 
+Indonesia
+ 
+●  
+Enhanced  HRIS  mobile  app  features  (payroll  calculation,  external  service  activity  tracking,  and  digital  payslips).  
+●  
+Implemented  5  core  features  for  a  Warehouse  Management  System  (WMS),  increasing  inventory  tracking  efficiency  by  50%  across  picking,  
+storage,
+ 
+and
+ 
+monitoring
+ 
+workflows.
+ 
+●  
+Created  a  web-based  recruitment  portal  to  streamline  job  applications  at  Mutif  Corp.  
+●  
+Designed  and  built  an  employee  identification  system  utilizing  multifunctional  ID  card  QR  code  scanning  for  rapid  employee  verification.  
+●  
+Developed  and  maintained  web-based  applications  to  enhance  user  experience.  
+●  
+Conducted  testing  and  debugging  on  mobile  applications  to  ensure  optimal  performance.  
+●  
+Collaborated  with  the  design  team  to  create  intuitive  and  responsive  user  interfaces.  
+●  
+Documented  development  processes  and  updated  technical  specifications  for  future  reference.  
+●  
+Provided  technical  support  to  end-users  to  resolve  application-related  issues.  
+Education 
+Universitas  Terbuka  Bandung,  
+Indonesia
+ Bachelor  of  Information  Systems  01/2023  –  01/2027
+  Technical  Skills 
+Mobile  Platforms  &  Languages:  Flutter,  Dart,  React  Native,  Swift  (iOS),  TypeScript,  JavaScript,  Java,  Golang
+ Architecture  &  State  Management:  Clean  Architecture,  BLoC,  Provider,  Riverpod,  Offline-First  Storage,  OOP,  RESTful  API  Integration
+ Backend,  DB  &  Security:  Node.js  (Express.js),  Spring  Boot,  REST  APIs,  OAuth  2.0,  PostgreSQL,  MySQL,  SQL  Query  Optimization
+ DevOps,  Hardware  &  Tools:  Bitbucket  Pipelines  (CI/CD),  Git,  Barcode/QR  Scanning,  Android  Studio,  Xcode,  Google  Play  Console,  App  Store  
+Connect,
+ 
+Postman
+ 
+ 
+Languages English:  Advanced
+ Indonesian:  Native 

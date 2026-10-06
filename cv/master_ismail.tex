@@ -1,0 +1,153 @@
+%% Master CV - Ismail Nur Alam
+%% Comprehensive overview of all competencies, experience, and achievements.
+%% Use as a master reference when tailoring role-specific CVs.
+%%
+%% Compile with: lualatex master_ismail.tex
+%% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+\renewcommand*{\namefont}{\fontsize{34}{36}\bfseries\upshape}
+\colorlet{firstnamecolor}{color1}
+\colorlet{lastnamecolor}{color1}
+\colorlet{namecolor}{color1}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
+
+\usepackage[utf8]{inputenc}
+\ifpdftex\usepackage[T1]{fontenc}\fi
+\AtEndPreamble{\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    pdftitle={Ismail Nur Alam - CV},
+    pdfpagemode=UseNone,
+}}
+\usepackage[scale=0.80]{geometry}
+\usepackage{import}
+
+% personal data
+\name{Ismail}{Nur Alam}
+\address{Yogyakarta, Indonesia}{}{}
+\phone[mobile]{+6289611112146}
+\email{ismailnuralam@gmail.com}
+\extrainfo{\href{https://itsmail.dev}{itsmail.dev}, \href{https://github.com/itzmail}{GitHub}}
+
+\begin{document}
+
+\makecvtitle
+
+% ============================================================
+%     PROFILE STATEMENT
+% ============================================================
+
+\vspace{6pt}
+\small{Software Engineer with 3+ years of experience building, scaling, and deploying end-to-end web and mobile applications. Specialized in Next.js, TypeScript, ReactJS, React Native and Flutter on the client side, backed by high-throughput backend architectures in Go, Java (Spring Boot), and PostgreSQL.}
+
+% ============================================================
+%     CORE COMPETENCIES
+% ============================================================
+
+\section{Core Competencies}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{Programming Languages}: TypeScript, JavaScript, Golang, Java, Dart, Swift
+\item \textbf{Frameworks \& Libraries}: Next.js, React.js, React Native, Flutter, Express.js, Spring Boot, Svelte, Astro, Tailwind CSS
+\item \textbf{Databases}: PostgreSQL, MySQL, MongoDB
+\item \textbf{Backend \& DevOps}: RESTful API Design, OAuth 2.0, Bitbucket Pipelines, CI/CD, Git, GitHub, GitLab
+\item \textbf{Architecture \& Tools}: Object-Oriented Programming (OOP), Agile/Scrum, Xcode, Android Studio, AI-assisted engineering (Claude Code, Codex, Antigravity)
+\end{itemize}
+
+% ============================================================
+%     PROFESSIONAL EXPERIENCE
+% ============================================================
+
+\section{Professional Experience}
+\vspace{3pt}
+\begin{itemize}
+
+% --- Most Recent Role ---
+\item{\cventry{12/2024 - Present}{Fullstack Developer}{PT Indoglobal Nusa Persada (Pintro)}{Yogyakarta / Remote, Indonesia}{}{
+\begin{itemize}
+    \item Developed and maintained scalable, high-performance web and mobile applications using Next.js, Flutter, Android Studio, and Xcode with a focus on responsive UI/UX.
+    \item Engineered automated background schedulers and backend scoring/reporting modules in Golang to process real-time business logic, dynamic discount updates, and Learning Management System (LMS) data synchronization.
+    \item Optimized PostgreSQL database performance by eliminating inefficient query patterns and resolving N+1 query bottlenecks, significantly reducing server load.
+    \item Automated application build and release workflows by constructing a CI/CD pipeline in Bitbucket Pipelines for seamless Android APK generation.
+    \item Upgraded native iOS application using Swift to support the latest iOS platform standards, refactoring third-party dependencies and publishing compatibility updates to the Apple App Store.
+    \item Managed end-to-end mobile app publishing lifecycle across both Google Play Store and Apple App Store.
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Previous Role ---
+\item{\cventry{01/2024 - 12/2024}{Software Engineer}{PT Kuantum Solusi Teknologi}{Indonesia}{}{
+\begin{itemize}
+    \item Optimized backend architecture using Express.js and Spring Boot by refactoring queries and implementing engineering best practices.
+    \item Designed and secured REST APIs by integrating OAuth authentication protocols, enabling safe and reliable data exchange with client applications.
+    \item Developed and maintained cross-platform mobile applications for Android and iOS using React Native and Flutter, applying Object-Oriented Programming (OOP) principles for maximum codebase scalability.
+    \item Managed end-to-end mobile app publishing lifecycle across both Google Play Store and Apple App Store.
+    \item Built internal corporate web portals using React.js and contributed to frontend software architecture across JavaScript, Java, and Dart technology stacks.
+\end{itemize}}}
+
+\vspace{3pt}
+
+% --- Earlier Role ---
+\item{\cventry{04/2021 - 12/2023}{Software Engineer (Web \& Mobile)}{CV Mutif Corp}{Indonesia}{}{
+\begin{itemize}
+    \item Enhanced HRIS mobile application features (payroll calculations, external service activity tracking, and digital payslips).
+    \item Implemented 5 core features for a Warehouse Management System (WMS), increasing inventory tracking efficiency by 50\% across picking, storage, and monitoring workflows.
+    \item Created a web-based recruitment portal to streamline job applications at Mutif Corp.
+    \item Designed and built an employee identification system utilizing multifunctional ID card QR code scanning for rapid employee verification.
+    \item Developed and maintained web-based applications to enhance user experience.
+    \item Conducted testing and debugging on mobile applications to ensure optimal performance.
+    \item Collaborated with the design team to create intuitive and responsive user interfaces.
+    \item Documented development processes and updated technical specifications for future reference.
+    \item Provided technical support to end-users to resolve application-related issues.
+\end{itemize}}}
+
+\end{itemize}
+
+% ============================================================
+%     EDUCATION
+% ============================================================
+
+\section{Education}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{01/2023 - 01/2027}{Bachelor of Information Systems}{Universitas Terbuka}{Bandung, Indonesia}{}{
+Information Systems, Software Engineering, Database Systems.
+}}
+\end{itemize}
+
+% ============================================================
+%     LANGUAGES
+% ============================================================
+
+\section{Languages}
+\vspace{1pt}
+\begin{itemize}
+\item English (Advanced), Indonesian (Native).
+\end{itemize}
+
+% ============================================================
+%     TRAINING & CERTIFICATIONS
+% ============================================================
+
+\section{Training and Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item Mobile Developer Student --- Pondok Programmer.
+\end{itemize}
+
+% ============================================================
+%     REFERENCES
+% ============================================================
+
+\section{References}
+\vspace{1pt}
+\begin{itemize}
+\item{Available upon request.}
+\end{itemize}
+
+\end{document}

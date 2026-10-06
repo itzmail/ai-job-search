@@ -1,5 +1,5 @@
 ---
-framework_version: 1.1.1
+framework_version: 1.1.3
 ---
 
 # Candidate Profile
@@ -12,6 +12,12 @@ framework_version: 1.1.1
 - **LinkedIn:** https://itsmail.dev
 - **GitHub:** https://github.com/itzmail
 - **Portfolio / Website:** https://itsmail.dev
+
+### Live Google Drive CV Links
+- **CV Software (Fullstack):** https://docs.google.com/document/d/1Sv-EDZHrRwCgYRPWwwoyBJXZgBsClJrG/edit?usp=sharing&ouid=117179171999598498947&rtpof=true&sd=true
+- **CV Mobile:** https://docs.google.com/document/d/1nxpETgS_NOk5fk3WkMfSBIvqAVzvqF72/edit?usp=sharing&ouid=117179171999598498947&rtpof=true&sd=true
+- **CV Frontend (FE):** https://docs.google.com/document/d/15GtUzVBvlZQ0LJwsDng0tyyALUuvzVSB/edit?usp=sharing&ouid=117179171999598498947&rtpof=true&sd=true
+- **CV Backend (BE):** https://docs.google.com/document/d/1uEksaTI2cevFpM-pt9xoJb6aFLm48KBR/edit?usp=sharing&ouid=117179171999598498947&rtpof=true&sd=true
 - **Status:** Employed (Open to new Junior–Mid opportunities)
 - **Target Roles:** Junior to Mid-level Software Engineer, Fullstack Developer, Backend Engineer (Go/Node), Frontend/Mobile Engineer (Next.js/React/Flutter)
 - **Target Compensation:** Min. IDR 8.000.000 / month (or equivalent in USD for international/remote roles)
@@ -42,17 +48,25 @@ Yogyakarta / Remote, Indonesia
 
 ### Software Engineer - PT Kuantum Solusi Teknologi (01/2024 – 12/2024)
 Indonesia
-- Boosted RESTful API efficiency by 35% across Express.js and Spring Boot backend architectures by refactoring queries and implementing engineering best practices.
-- Architected and secured REST APIs by integrating OAuth authentication protocols, enabling safe and reliable data exchange with client applications.
 - Built and maintained cross-platform mobile applications for Android and iOS using React Native and Flutter, applying Object-Oriented Programming (OOP) principles for maximum codebase scalability.
-- Engineered an internal company web portal using React.js, contributing to frontend software architecture across JavaScript, Java, and Dart tech stacks.
+- Managed end-to-end mobile app publishing lifecycle across both Google Play Store and Apple App Store.
+- Designed and secured REST APIs by integrating OAuth authentication protocols, enabling safe and reliable data exchange with client applications.
+- Built internal corporate web portals using React.js and contributed to frontend software architecture across JavaScript, Java, and Dart tech stacks.
 
 ### Software Engineer (Web & Mobile) - CV Mutif Corp (04/2021 – 12/2023)
 Indonesia
-- Enhanced HRIS mobile application features (payroll calculations, external service activity tracking, and digital payslips), resulting in a 40% increase in user satisfaction ratings.
-- Implemented 5 core features for the Warehouse Management System (WMS), boosting inventory tracking efficiency by 50% across picking, storing, and monitoring workflows.
-- Engineered a web-based recruitment portal to streamline prospective employee applications for Mutif Corp.
-- Designed and built an employee identification website featuring multifunctional ID card QR code scanning for fast employee verification.
+- Enhanced HRIS mobile application features (payroll calculations, external service activity tracking, and digital payslips).
+- Implemented 5 core features for the Warehouse Management System (WMS), increasing inventory tracking efficiency by 50% across picking, storage, and monitoring workflows.
+- Created a web-based recruitment portal to streamline job applications at Mutif Corp.
+- Designed and built an employee identification system utilizing multifunctional ID card QR code scanning for rapid employee verification.
+- Developed and maintained web-based applications to enhance user experience.
+- Conducted testing and debugging on mobile applications to ensure optimal performance.
+- Collaborated with the design team to create intuitive and responsive user interfaces.
+- Documented development processes and updated technical specifications for future reference.
+- Provided technical support to end-users to resolve application-related issues.
+
+## Summary
+Software Engineer with 3+ years of experience building, scaling, and deploying end-to-end web and mobile applications. Specialized in Next.js, TypeScript, ReactJS, React Native and Flutter on the client side, backed by high-throughput backend architectures in Go, Java (Spring Boot), and PostgreSQL.
 
 ## Technical Skills
 
@@ -60,7 +74,7 @@ Indonesia
 - TypeScript, JavaScript, Golang, Java, Dart, Swift
 
 ### Frameworks & Libraries
-- **Web & Frontend:** Next.js, React.js, Svelte, Astro, Tailwind CSS
+- **Web & Frontend:** Next.js, React.js, React Native, Svelte, Astro, Tailwind CSS
 - **Mobile:** Flutter, React Native, iOS (Swift), Android Studio
 - **Backend:** Express.js, Spring Boot, Node.js, Go standard library / web frameworks
 
@@ -70,8 +84,11 @@ Indonesia
 ### Backend & DevOps
 - RESTful API Design, OAuth 2.0, Bitbucket Pipelines, CI/CD, Git, GitHub, GitLab
 
+### Consumer Platforms
+- Web; Android (Google Play Store); iOS (Apple App Store)
+
 ### Architecture & Developer Tools
-- Object-Oriented Programming (OOP), Agile/Scrum, Xcode, Android Studio, AI-assisted engineering (Pi, Claude Code, Codex, Antigravity)
+- Object-Oriented Programming (OOP), Agile/Scrum, Xcode, Android Studio, AI-assisted engineering (Claude Code, Codex, Antigravity)
 
 ## Training & Certifications
 - Mobile Developer Student — Pondok Programmer

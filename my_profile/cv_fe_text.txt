@@ -1,0 +1,228 @@
+ISMAIL  NUR  ALAM Frontend  Engineer +6289611112146   •   ismailnuralam@gmail.com  •   https://itsmail.dev  •   Yogyakarta,  Indonesia 
+ Summary 
+Results-driven  Senior  Frontend  Engineer  with  4+  years  of  expertise  in  designing,  architecting,  and  scaling  high-performance  web  applications.  
+Highly
+ 
+proficient
+ 
+in
+ 
+Next.js,
+ 
+React.js,
+ 
+TypeScript,
+ 
+and
+ 
+modern
+ 
+frontend
+ 
+architecture,
+ 
+with
+ 
+a
+ 
+strong
+ 
+focus
+ 
+on
+ 
+Core
+ 
+Web
+ 
+Vitals
+ 
+optimization,
+ 
+state
+ 
+management,
+ 
+and
+ 
+secure
+ 
+API
+ 
+integrations.
+ 
+Proven
+ 
+track
+ 
+record
+ 
+of
+ 
+boosting
+ 
+web
+ 
+performance
+ 
+by
+ 
+35%,
+ 
+modernizing
+ 
+legacy
+ 
+enterprise
+ 
+systems,
+ 
+and
+ 
+delivering
+ 
+zero-downtime
+ 
+rollouts
+ 
+in
+ 
+cross-functional
+ 
+Agile
+ 
+environments. 
+ Experience PT  Indoglobal  Nusa  Persada  (Pintro) Frontend  Developer  2024/12  -  present 
+●  
+Architected  high-performance  web  applications  for  edtech  solutions  using  Next.js,  React,  and  TypeScript,  achieving  35%  improvement  in  
+application
+ 
+performance
+ 
+and
+ 
+response
+ 
+efficiency
+ 
+through
+ 
+frontend
+ 
+asset
+ 
+optimization
+ 
+and
+ 
+client-side
+ 
+caching.
+ 
+●  
+Engineered  scalable  frontend  architecture  integrated  with  RESTful  API  endpoints,  ensuring  robust  token  management,  state  persistence,  
+and
+ 
+seamless
+ 
+real-time
+ 
+data
+ 
+synchronization
+ 
+with
+ 
+minimal
+ 
+re-renders.
+ 
+●  
+Collaborate  with  product  managers  and  backend  engineers  in  an  Agile  sprint  cycle  to  design,  test,  and  deploy  feature  enhancements  on  
+schedule.
+ 
+●  
+Diagnosed  and  resolved  client-side  rendering  bottlenecks,  optimizing  Core  Web  Vitals  (LCP,  CLS,  FID)  across  all  major  browser  engines  
+to
+ 
+maximize
+ 
+user
+ 
+retention.
+ 
+PT  Kuantum  Solusi  Teknologi Software  Engineer  2024/01  -  2024/12 
+●  
+Modernized  enterprise  corporate  portals  and  internal  dashboards  using  React.js  and  modular  UI  components,  delivering  feature  updates  on  
+schedule
+ 
+with
+ 
+zero
+ 
+major
+ 
+downtime
+ 
+during
+ 
+rollout
+ 
+for
+ 
+hundreds
+ 
+of
+ 
+active
+ 
+users.
+ 
+●  
+Implemented  clean  coding  standards,  structured  state  management,  and  reusable  UI  components  to  improve  codebase  maintainability  and  
+team
+ 
+velocity.
+ 
+●  
+Integrated  complex  frontend  clients  with  backend  microservices  via  REST  APIs,  leveraging  OAuth  2.0  authentication  and  session  
+management
+ 
+protocols
+ 
+for
+ 
+enterprise-grade
+ 
+security.
+ 
+CV  Mutif  Corp Frontend  &  Software  Engineer  2021/04  -  2023/12
+ 
+●  
+Developed  responsive  internal  HRIS  job  portals  and  identification  modules,  boosting  user  satisfaction  through  streamlined  user  workflows  
+and
+ 
+interface
+ 
+enhancements.
+ 
+●  
+Constructed  interactive,  data-driven  web  dashboards  to  facilitate  operational  workflows  and  internal  data  management.  
+●  
+Optimized  rendering  efficiency  across  multiple  web  browsers,  resolving  UI  inconsistencies  and  improving  page  load  speeds.  
+ 
+Education Universitas  Terbuka  Bandung Bachelor  of  Information  Systems  01/2023  -  01/2027 
+ Training  /  Courses 
+Mobile  Developer  Student  —  Pondok  Programmer  
+ Languages 
+English:  Advanced
+ Indonesian:  Native 
+ 
+Skills 
+Core  Frontend  &  Languages:  JavaScript  (ES6+),  TypeScript,  HTML5,  CSS3,  SASS/SCSS
+ 
+Frameworks  &  Libraries:  Next.js,  React.js,  React  Native,  Svelte,  Vue.js,  Express.js
+ 
+State  &  Performance  Optimization:  Redux,  Context  API,  Core  Web  Vitals,  RESTful  APIs,  OAuth  2.0
+ 
+DevOps,  Build  &  Tools:  Git,  GitHub,  GitLab,  Webpack,  Vite,  Claude  Code,  Codex 
