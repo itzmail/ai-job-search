@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-06T05:58:01.594756",
+  "updated_at": "2026-10-07T09:34:24.392641",
   "applications": {
     "careers@veecotech.com.my": {
       "email": "careers@veecotech.com.my",
@@ -836,6 +836,149 @@
       "date": "2026-10-06",
       "notes": "",
       "last_updated": "2026-10-06T05:58:01.594665"
+    },
+    "hello@novocall.co": {
+      "email": "hello@novocall.co",
+      "domain": "novocall.co",
+      "company": "Novocall",
+      "role": "",
+      "subject": "Application: Frontend Developer (React / Next.js) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T10:58:50.876622"
+    },
+    "careers@nuagetg.io": {
+      "email": "careers@nuagetg.io",
+      "domain": "nuagetg.io",
+      "company": "Nuagetg",
+      "role": "",
+      "subject": "Application: Full-Stack Engineer (Next.js / TypeScript / Go) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T10:58:51.904882"
+    },
+    "hello@syncrecruitment.com.au": {
+      "email": "hello@syncrecruitment.com.au",
+      "domain": "syncrecruitment.com.au",
+      "company": "Syncrecruitment",
+      "role": "",
+      "subject": "Application: Full-Stack Engineer (React / Node / Go) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T10:58:52.803924"
+    },
+    "careers@brightdata.com": {
+      "email": "careers@brightdata.com",
+      "domain": "brightdata.com",
+      "company": "Brightdata",
+      "role": "",
+      "subject": "Application: Experienced Backend JavaScript / TypeScript Developer - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T12:05:05.071242"
+    },
+    "careers@99x.io": {
+      "email": "careers@99x.io",
+      "domain": "99x.io",
+      "company": "99x",
+      "role": "",
+      "subject": "Application: AI Engineer (Agentic Workflows / MCP / RAG) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T13:05:52.814613"
+    },
+    "careers@datadome.co": {
+      "email": "careers@datadome.co",
+      "domain": "datadome.co",
+      "company": "Datadome",
+      "role": "",
+      "subject": "Application: AI Engineer (Agentic Workflows / High-Throughput Pipelines) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T13:11:17.425241"
+    },
+    "jobs@gits.id": {
+      "email": "jobs@gits.id",
+      "domain": "gits.id",
+      "company": "Gits",
+      "role": "",
+      "subject": "Lamaran: Junior AI Engineer / AI Integration Developer - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T15:05:27.631539"
+    },
+    "info@solveeducation.org": {
+      "email": "info@solveeducation.org",
+      "domain": "solveeducation.org",
+      "company": "Solveeducation",
+      "role": "",
+      "subject": "Application: Junior AI-Assisted Software Engineer (Bandung Hub) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T15:05:28.537352"
+    },
+    "contact@kitameraki.com": {
+      "email": "contact@kitameraki.com",
+      "domain": "kitameraki.com",
+      "company": "Kitameraki",
+      "role": "AI Internship",
+      "subject": "Interview Invitation Received",
+      "status": "interviewing",
+      "date": "2026-10-06",
+      "notes": "User received interview invitation on 2026-10-06",
+      "last_updated": "2026-10-06T15:25:31.228768"
+    },
+    "compliance@sandersonplc.com": {
+      "email": "compliance@sandersonplc.com",
+      "domain": "sandersonplc.com",
+      "company": "Sandersonplc",
+      "role": "",
+      "subject": "Application: Prompt Engineer (Claude / Claude Code Specialist) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-06",
+      "notes": "",
+      "last_updated": "2026-10-06T15:26:24.757808"
+    },
+    "hr@bjak.my": {
+      "email": "hr@bjak.my",
+      "domain": "bjak.my",
+      "company": "Bjak",
+      "role": "",
+      "subject": "Application: Frontend Engineer (React / Next.js / AI-Native UI) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-07",
+      "notes": "",
+      "last_updated": "2026-10-07T09:34:22.012686"
+    },
+    "support@nodesify.com": {
+      "email": "support@nodesify.com",
+      "domain": "nodesify.com",
+      "company": "Nodesify",
+      "role": "",
+      "subject": "Application: Frontend Engineer (Contract - React / Next.js / TypeScript) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-07",
+      "notes": "",
+      "last_updated": "2026-10-07T09:34:23.426204"
+    },
+    "info@cyberarrow.io": {
+      "email": "info@cyberarrow.io",
+      "domain": "cyberarrow.io",
+      "company": "Cyberarrow",
+      "role": "",
+      "subject": "Application: Front-end Developer (React.js / SaaS Platform) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-07",
+      "notes": "",
+      "last_updated": "2026-10-07T09:34:24.392471"
     }
   }
 }
