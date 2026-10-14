@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-07T09:34:24.392641",
+  "updated_at": "2026-10-14T19:40:06.846086",
   "applications": {
     "careers@veecotech.com.my": {
       "email": "careers@veecotech.com.my",
@@ -979,6 +979,138 @@
       "date": "2026-10-07",
       "notes": "",
       "last_updated": "2026-10-07T09:34:24.392471"
+    },
+    "abhi@mastra.ai": {
+      "email": "abhi@mastra.ai",
+      "domain": "mastra.ai",
+      "company": "Mastra",
+      "role": "",
+      "subject": "Application: AI Engineer (Agentic Primitives / Evals / TypeScript) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T09:02:21.095557"
+    },
+    "career@powtechgroup.com": {
+      "email": "career@powtechgroup.com",
+      "domain": "powtechgroup.com",
+      "company": "Powtechgroup",
+      "role": "",
+      "subject": "Application: Python Backend Developer (Remote Contract) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T09:02:22.018436"
+    },
+    "hello@encubedsolutions.com.au": {
+      "email": "hello@encubedsolutions.com.au",
+      "domain": "encubedsolutions.com.au",
+      "company": "Encubedsolutions",
+      "role": "",
+      "subject": "Application: Full-Stack Developer (React / Node / Python) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T09:02:23.041496"
+    },
+    "info@uvation.com": {
+      "email": "info@uvation.com",
+      "domain": "uvation.com",
+      "company": "Uvation",
+      "role": "",
+      "subject": "Application: Frontend Developer (React.js / Next.js) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T12:28:32.082791"
+    },
+    "info@abstra.co": {
+      "email": "info@abstra.co",
+      "domain": "abstra.co",
+      "company": "Abstra",
+      "role": "",
+      "subject": "Application: Mid-Level Full Stack Software Engineer (Python/FastAPI + React/TS + AI) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T12:28:33.402585"
+    },
+    "marketing@staffinc.co": {
+      "email": "marketing@staffinc.co",
+      "domain": "staffinc.co",
+      "company": "Staffinc",
+      "role": "",
+      "subject": "Lamaran: Backend Engineer (Golang / Python) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-08",
+      "notes": "",
+      "last_updated": "2026-10-08T12:28:34.998473"
+    },
+    "admin@auditech.id": {
+      "email": "admin@auditech.id",
+      "domain": "auditech.id",
+      "company": "Auditech",
+      "role": "",
+      "subject": "Lamaran: Junior Software Engineer (React / Next.js / Python / Go) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T16:20:01.175652"
+    },
+    "talent.acquisition@appetiserapps.com": {
+      "email": "talent.acquisition@appetiserapps.com",
+      "domain": "appetiserapps.com",
+      "company": "Appetiserapps",
+      "role": "",
+      "subject": "Application: Junior Full-Stack Developer (Web & Mobile / Vue / Laravel / AI) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T16:28:11.000776"
+    },
+    "contact@bloomguarden.com": {
+      "email": "contact@bloomguarden.com",
+      "domain": "bloomguarden.com",
+      "company": "Bloomguarden",
+      "role": "",
+      "subject": "Application: Full-Stack Developer (Junior to Mid-Level) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T16:28:11.922002"
+    },
+    "hello@huntst.com": {
+      "email": "hello@huntst.com",
+      "domain": "huntst.com",
+      "company": "Huntst",
+      "role": "",
+      "subject": "Application: AI Solutions Engineer & Full-Stack Developer - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T19:40:04.844816"
+    },
+    "jobs@svetet.com": {
+      "email": "jobs@svetet.com",
+      "domain": "svetet.com",
+      "company": "Svetet",
+      "role": "",
+      "subject": "Application: Backend Developer (Node.js / TypeScript / PostgreSQL) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T19:40:05.790067"
+    },
+    "founders@wiseai.care": {
+      "email": "founders@wiseai.care",
+      "domain": "wiseai.care",
+      "company": "Wiseai",
+      "role": "",
+      "subject": "Application: Founding Engineer (Fullstack) - Ismail Nur Alam",
+      "status": "drafted",
+      "date": "2026-10-14",
+      "notes": "",
+      "last_updated": "2026-10-14T19:40:06.846011"
     }
   }
 }
